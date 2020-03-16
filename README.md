@@ -1,2 +1,3 @@
-# uwsgi-docker
-Personal uwsgi base recipe for Docker
+# uwsgi dockerfile
+
+This is my base uwsgi docker recipe.
